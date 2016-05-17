@@ -4,7 +4,6 @@ html {
   width:100%;
 }
 body {
-position:absolute;
 text-align:center;
 width: 75%;
 height:100%;
@@ -21,7 +20,7 @@ background-color: blue;
 }
 footer {
 margin:0;
-position:relative;
+position:absolute;
 bottom:0;
 text-align:center;
 width: 100%;
