@@ -1,9 +1,10 @@
 html {
   background-color:#c0c0c0;
   margin:0px;
+  width:100%;
 }
 body {
-width: 600px
+width: 75%;
 margin:0px;
 margin-left: auto;
 margin-right: auto;
