@@ -6,10 +6,10 @@ margin-right: auto;
 header {
 width: 100%
 height: 100px;
-color: blue;
+background-color: blue;
 }
 footer {
 width: 100%
 height: 100px;
-color: black;
+background-color: black;
 }
