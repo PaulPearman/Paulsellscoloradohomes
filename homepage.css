@@ -12,6 +12,7 @@ color:black;
 }
 container div {
   float:left;
+  height:100%;
 }
 .LeftBox {
   width:20%;
