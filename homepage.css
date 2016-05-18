@@ -21,7 +21,8 @@ container div {
 .MiddleBox {
   width:60%;
 }
-.LeftBox {
+.LeftBox div {
+  font-size:12px;
 }
 .headshot {
   width:70%;
