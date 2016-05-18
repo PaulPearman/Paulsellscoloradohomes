@@ -28,11 +28,11 @@ margin:0;
 list-style-type:none;
 text-align:center;
 width:100%;
-height:50px;
+/*height:50px;*/
 }
 .OptionsBar li {
   padding-top:17.5px;
-  padding-bottom:-17.5px;
+  padding-bottom:17.5px;
   margin:0;
   float:left;
   width:24%;
