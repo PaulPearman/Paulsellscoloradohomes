@@ -3,6 +3,11 @@ html {
   margin:0px;
   width:100%;
 }
+header {
+  height:138px;
+  width:100%;
+  
+}
 body {
 width: 1000px;
 height:1000px;
@@ -13,7 +18,7 @@ background-color: #FFFFFF;
 }
 .logoBar {
 width: 100%;
-height: 88px;
+height: 63.77%;
 background: #0047b3;
 background: linear-gradient(to bottom right, #4d94ff, #0047b3);
 /*border-bottom: 7px solid #66a3ff;*/
@@ -28,7 +33,7 @@ margin:0;
 list-style-type:none;
 text-align:center;
 width:100%;
-height:50px;
+height:36.23%;
 }
 .OptionsBar li {
   margin:0;
