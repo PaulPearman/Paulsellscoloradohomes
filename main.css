@@ -19,7 +19,7 @@ background: linear-gradient(to bottom right, #4d94ff, #0047b3);
 border-bottom: 7px solid #66a3ff;
 }
 .OptionsBar {
-  
+  margin:0;
 }
 .OptionsBar ul {
 list-style-type:none;
