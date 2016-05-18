@@ -31,6 +31,7 @@ width:100%;
 height:50px;
 }
 .OptionsBar li {
+  padding:auto;
   margin:0;
   float:left;
   width:24%;
@@ -39,7 +40,7 @@ height:50px;
   margin-left:0.5px;
   margin-right:0.5px;
 }
-.OptionsBar a, .OptionsBar p {
+.OptionsBar a {
   color:#000000;
   text-decoration:none;
 }
