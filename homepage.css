@@ -10,3 +10,6 @@ color:black;
 .Scenery p {
   vertical-align:middle;
 }
+container div {
+  float:left;
+}
