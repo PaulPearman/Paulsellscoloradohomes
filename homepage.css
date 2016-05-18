@@ -15,15 +15,15 @@ container div {
 }
 .LeftBox {
   width:20%;
-  height:50px;
+  height:auto;
   background-color:blue;
 }
 .MiddleBox {
   width:60%;
-  height:50px;
+  height:auto;
 }
 .RightBox {
   width:20%;
-  height:50px;
+  height:auto;
   background-color:blue;
 }
