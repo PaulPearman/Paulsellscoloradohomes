@@ -21,8 +21,10 @@ container div {
 .MiddleBox {
   width:60%;
 }
-.headshot {
+.LeftBox {
   text-align:center;
+}
+.headshot {
   width:70%;
   margin:10px;
 }
