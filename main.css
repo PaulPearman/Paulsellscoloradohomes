@@ -24,7 +24,7 @@ border-bottom: 7px solid #66a3ff;
 .OptionsBar ul {
 list-style-type:none;
 text-align:center;
-background: red;
+background-color: red;
 }
 .OptionsBar ul li {
   float:left;
