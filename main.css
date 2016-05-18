@@ -14,7 +14,8 @@ background-color: #FFFFFF;
 header {
 width: 100%;
 height: 88px;
-background-color: #0047b3;
+background: #0047b3;
+background: linear-gradient(to bottom right, #80b3ff, #0047b3);
 }
 footer {
 margin:0;
