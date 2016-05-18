@@ -15,11 +15,16 @@ container div {
   height:66.2%;
 }
 .LeftBox, .RightBox {
-  width:20%;
   background: linear-gradient(#4d94ff, #0047b3, #0047b3, #0047b3, #0047b3, #0047b3, #0047b3);
 }
+.LeftBox {
+  width:25%;
+}
+.RightBox {
+  width:20%;
+}
 .MiddleBox {
-  width:60%;
+  width:55%;
 }
 .LeftBox div {
   margin:10%;
