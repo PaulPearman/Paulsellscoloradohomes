@@ -16,7 +16,7 @@ header {
 text-align:center;
 width: 100%;
 height: 100px;
-background-color: blue;
+background-color: #3b560a;
 }
 footer {
 margin:0;
@@ -25,6 +25,6 @@ bottom:0;
 width:1000px;
 text-align:center;
 height:100px;
-background-color: black;
+background-color: #7b7b7b;
 color:#FFFFFF;
 }
