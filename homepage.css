@@ -27,6 +27,7 @@ container div {
   width:55%;
 }
 .MiddleBox p {
+  text-align:center;
   margin:10px;
 }
 .LeftBox div {
