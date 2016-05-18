@@ -1,5 +1,4 @@
 .Scenery {
-float:left;
 text-align:center;
 margin:0;
 margin-top:-16px;
@@ -10,6 +9,9 @@ color:black;
 }
 .Scenery p {
   vertical-align:middle;
+}
+container {
+  float:left;
 }
 container div {
   float:left;
