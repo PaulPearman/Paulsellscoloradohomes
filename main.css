@@ -39,7 +39,7 @@ height:50px;
   margin-left:0.5px;
   margin-right:0.5px;
 }
-.OptionsBar a {
+.OptionsBar a, .OptionsBar p {
   color:#000000;
   text-decoration:none;
 }
