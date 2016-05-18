@@ -16,7 +16,6 @@ container div {
 }
 .LeftBox {
   width:20%;
-  background-color:blue;
   background: linear-gradient(to bottom right, #4d94ff, #0047b3);
 }
 .MiddleBox {
@@ -24,6 +23,5 @@ container div {
 }
 .RightBox {
   width:20%;
-  background-color:blue;
   background: linear-gradient(to bottom right, #4d94ff, #0047b3);
 }
