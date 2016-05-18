@@ -34,6 +34,7 @@ container div {
   text-shadow: 2px 0px #1a1a1a;
 }
 .LeftBox h3 {
+  text-align:center;
 margin-bottom:1px;
 }
 .LeftBox p {
