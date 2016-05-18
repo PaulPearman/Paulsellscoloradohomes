@@ -29,5 +29,6 @@ color:#FFFFFF;
 }
 .logo {
  margin:10px;
- float
+ float:left;
+ box-shadow: 2px 2px 5px #888888;
 }
