@@ -13,3 +13,17 @@ color:black;
 container div {
   float:left;
 }
+.LeftBox {
+  width:25%;
+  height:50px;
+  background-color:blue;
+}
+.MiddleBox {
+  width:50%;
+  height:50px;
+}
+.RightBox {
+  width:25%;
+  height:50px;
+  background-color:blue;
+}
