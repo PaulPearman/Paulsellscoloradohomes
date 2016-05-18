@@ -13,8 +13,8 @@ background-color: #FFFFFF;
 }
 header {
 width: 100%;
-hieght: 500px;
-background-color: #3b560a;
+height: 500px;
+background-color: #0052cc;
 }
 footer {
 margin:0;
@@ -28,4 +28,5 @@ color:#FFFFFF;
 }
 .logo {
  margin:10px;
+ float
 }
