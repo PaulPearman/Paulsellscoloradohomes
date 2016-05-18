@@ -16,7 +16,7 @@ width: 100%;
 height: 88px;
 background: #0047b3;
 background: linear-gradient(to bottom right, #4d94ff, #0047b3);
-border-bottom: 5px solid #1a75ff;
+border-bottom: 5px solid #1a1a1a;
 }
 footer {
 margin:0;
