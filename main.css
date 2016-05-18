@@ -33,7 +33,7 @@ height:50px;
 .OptionsBar li {
   margin:0;
   float:left;
-  width:25%;
+  width:24%;
   height:100%;
   background: linear-gradient(#f2f2f2, #b3b3b3);
   border-right:0.5px solid #FFFFFF;
