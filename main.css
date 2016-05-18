@@ -18,6 +18,12 @@ background: #0047b3;
 background: linear-gradient(to bottom right, #4d94ff, #0047b3);
 border-bottom: 7px solid #66a3ff;
 }
+.OptionsBar {
+  
+}
+.OptionsBar ul {
+list-style-type:none;
+}
 footer {
 margin:0;
 position:absolute;
