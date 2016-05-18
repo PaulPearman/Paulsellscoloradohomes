@@ -10,6 +10,7 @@ margin:0px;
 margin-left: auto;
 margin-right: auto;
 background-color: #FFFFFF;
+box-shadow: 2px 2px 5px #1a1a1a;
 }
 .logoBar {
 width: 100%;
