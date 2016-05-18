@@ -14,16 +14,16 @@ container div {
   float:left;
 }
 .LeftBox {
-  width:15%;
+  width:20%;
   height:50px;
   background-color:blue;
 }
 .MiddleBox {
-  width:70%;
+  width:60%;
   height:50px;
 }
 .RightBox {
-  width:15%;
+  width:20%;
   height:50px;
   background-color:blue;
 }
