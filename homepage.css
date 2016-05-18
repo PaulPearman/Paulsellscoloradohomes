@@ -26,6 +26,9 @@ container div {
 .MiddleBox {
   width:55%;
 }
+.MiddleBox p {
+  margin:10px;
+}
 .LeftBox div {
   margin:7%;
   margin-top:-50px;
