@@ -16,7 +16,7 @@ container div {
 }
 .LeftBox {
   width:20%;
-  height:100%;
+  height:auto;
   background-color:blue;
 }
 .MiddleBox {
@@ -25,6 +25,6 @@ container div {
 }
 .RightBox {
   width:20%;
-  height:100%;
+  height:auto;
   background-color:blue;
 }
