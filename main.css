@@ -42,13 +42,13 @@ body {
 .LeftColumn {
 float:left;
 width:24.8%;
-height:86.2%;
+height:86.3%;
 background-color:blue;
 }
 .RightColumn {
 float:left;
 width:75.2%;
-height:86.2%;
+height:86.3%;
 background-color:green;
 }
 .TopOfRightColumn {
