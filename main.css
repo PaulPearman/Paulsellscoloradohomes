@@ -9,9 +9,13 @@ background-color:blue;
 }
 .TopOfHeader {
   background-color:yellow;
+  width:100%;
+  height:70%;
 }
 .BottomOfHeader {
   background-color:red;
+  width:100%;
+  height:30%;
 }
 body {
   width:1000px;
