@@ -40,6 +40,9 @@ width:100%;
   margin-left:0.5px;
   margin-right:0.5px;
 }
+.OptionsBar a:hover .OptionsBar li: {
+  background: linear-gradient(#b3b3b3, #f2f2f2);
+}
 .OptionsBar a {
   color:#000000;
   text-decoration:none;
