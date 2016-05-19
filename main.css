@@ -50,38 +50,3 @@ width:100%;
  float:left;
  box-shadow: 1px 1px 5px #1a1a1a;
 }
-container {
-  margin:0;
-  margin-top:50px;
-}
-.LeftBox {
-margin:0;
-padding-right:-1px;
-width:25%;
-background: linear-gradient(#4d94ff, #0047b3, #0047b3, #0047b3, #0047b3, #0047b3, #0047b3);
-}
-.LeftBox div {
-  margin:7%;
-  margin-top:-50px;
-  font-size:12.5px;
-  color: #d9d9d9;
-  text-shadow: 2px 0px #1a1a1a;
-}
-.LeftBox h3 {
-text-align:center;
-margin-bottom:1px;
-}
-.LeftBox p {
-  margin-top:2px;
-  margin-bottom:2px;
-}
-.LeftBox a {
-  color:#d9d9d9;
-}
-.headshot {
-  width:70%;
-  margin:15%;
-}
-.headshot {
-  
-}
