@@ -71,9 +71,8 @@ background: linear-gradient(#4d94ff, #0047b3, #0047b3, #0047b3, #0047b3, #0047b3
 }
 .RightColumn {
 float:left;
-width:75.2%;
+width:75.25%;
 height:86.35%;
-background-color:white;
 }
 .TopOfRightColumn {
   height:25%;
@@ -88,7 +87,7 @@ background-color:white;
   float:left;
   width:70%;
   height:100%;
-  background-color:green;
+  background-color:white;
 }
 .RightSide {
   float:left;
