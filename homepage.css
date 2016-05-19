@@ -14,7 +14,7 @@ container div {
   float:left;
   height:66.2%;
 }
-.LeftBox, .RightBox {
+.LeftBox, .RightColumn {
   background: linear-gradient(#4d94ff, #0047b3, #0047b3, #0047b3, #0047b3, #0047b3, #0047b3);
 }
 .LeftBox {
