@@ -51,6 +51,9 @@ width:100%;
  float:left;
  box-shadow: 1px 1px 5px #1a1a1a;
 }
+container {
+  margin:0;
+}
 .LeftBox {
 margin:0;
 padding-right:-1px;
