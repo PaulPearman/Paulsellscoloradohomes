@@ -1,5 +1,6 @@
 html {
 border: 5px solid black;
+background-color: gray;
 }
 container {
   border:5px solid black;
@@ -13,6 +14,7 @@ header {
 border: 5px solid black;
 width:100%;
 height:100px;
+background-color:blue;
 }
 body {
 border: 5px solid black;
