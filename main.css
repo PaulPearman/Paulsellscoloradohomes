@@ -84,13 +84,13 @@ height:86.35%;
   width:100%;
 }
 .LeftSide {
-  float:left;
+  float:right;
   width:70%;
   height:100%;
   background-color:white;
 }
 .RightSide {
-  float:left;
+  float:right;
   width:30%;
   height:100%;
   background: linear-gradient(#4d94ff, #0047b3, #0047b3, #0047b3, #0047b3, #0047b3, #0047b3);
