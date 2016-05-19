@@ -25,10 +25,10 @@ background-color:blue;
   text-align:center;
 }
 .NavOptions li {
-  width:24%;
+  width:24.75%;
   height:100%;
-  margin-left:0.5%;
-  margin-right:0.5%;
+  margin-left:0.125%;
+  margin-right:0.125%;
   background-color:white;
   float:left;
 }
