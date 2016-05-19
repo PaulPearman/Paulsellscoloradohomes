@@ -61,6 +61,7 @@ background: linear-gradient(#4d94ff, #0047b3, #0047b3, #0047b3, #0047b3, #0047b3
 }
 .LeftColumn h3 {
   text-align:center;
+  margin-bottom:-10%;
 }
 .LeftColumn a, .LeftColumn p {
   color:#d9d9d9;
