@@ -32,7 +32,10 @@ width:100%;
   padding-top:15px;
   padding-bottom:15px;
 }
-.NavOptions li:hover {
+.NavOptions a {
+  color: #000000;
+}
+.NavOptions li:hover, .ActiveTab {
   background:linear-gradient(#a6a6a6, #f2f2f2);
 }
 body {
