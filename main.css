@@ -56,6 +56,8 @@ background: linear-gradient(#4d94ff, #0047b3, #0047b3, #0047b3, #0047b3, #0047b3
 .LeftColumn div {
   margin:10%;
   margin-top:-20%;
+  font-size:14px;
+  color: #f2f2f2;
 }
 .RightColumn {
 float:left;
