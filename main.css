@@ -21,6 +21,7 @@ background-color:blue;
   width:100%;
   list-style-type:none;
   margin:0;
+  margin-right:-50px;
   text-align:center;
 }
 .NavOptions li {
