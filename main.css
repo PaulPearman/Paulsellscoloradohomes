@@ -52,6 +52,7 @@ width:100%;
  box-shadow: 1px 1px 5px #1a1a1a;
 }
 .LeftBox {
+padding-right:-1px;
 width:25%;
 height:66.2%;
 background: linear-gradient(#4d94ff, #0047b3, #0047b3, #0047b3, #0047b3, #0047b3, #0047b3);
