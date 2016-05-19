@@ -49,6 +49,10 @@ width:24.8%;
 height:86.35%;
 background: linear-gradient(#4d94ff, #0047b3, #0047b3, #0047b3, #0047b3, #0047b3, #0047b3);
 }
+.headshot {
+  width:80%;
+  margin:10%;
+}
 .RightColumn {
 float:left;
 width:75.2%;
