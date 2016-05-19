@@ -53,6 +53,10 @@ background: linear-gradient(#4d94ff, #0047b3, #0047b3, #0047b3, #0047b3, #0047b3
   width:70%;
   margin:15%;
 }
+.LeftColumn div {
+  margin:10%;
+  margin-top:-20%;
+}
 .RightColumn {
 float:left;
 width:75.2%;
