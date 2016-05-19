@@ -1,0 +1,26 @@
+.RightColumn {
+float:left;
+width:75.2%;
+height:86.35%;
+}
+.TopOfRightColumn {
+  height:31.25%;
+  width:100%;
+  background-color:#c0c0c0;
+}
+.BottomOfRightColumn {
+  height:68.75%;
+  width:100%;
+}
+.LeftSide {
+  float:right;
+  width:70%;
+  height:100%;
+  background-color:white;
+}
+.RightSide {
+  float:right;
+  width:30%;
+  height:100%;
+  background: linear-gradient(#4d94ff, #0047b3, #0047b3, #0047b3, #0047b3, #0047b3, #0047b3);
+}

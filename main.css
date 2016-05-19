@@ -1,0 +1,79 @@
+html {
+margin:0;
+background-color: #808080;
+}
+header {
+width:100%;
+}
+.TopOfHeader {
+  background:linear-gradient(to bottom right, #4d94ff, #0047b3);
+  height:88px;
+}
+.logo {
+  margin:10px;
+  box-shadow: 2px 2px 5px #1a1a1a;
+}
+.BottomOfHeader {
+  background-color:red;
+  width:100%;
+}
+.NavOptions {
+  width:100%;
+  list-style-type:none;
+  margin:0;
+  margin-left:-40px;
+  text-align:center;
+}
+.Tab, .ActiveTab {
+  width:24.8%;
+  margin-right:0.2%;
+  float:left;
+  padding-top:15px;
+  padding-bottom:15px;
+}
+.NavOptions a {
+  color: #000000;
+}
+.NavOptions li:hover {
+  background:linear-gradient(#a6a6a6, #f2f2f2);
+}
+.ActiveTab {
+  background:linear-gradient(#a6a6a6, #f2f2f2);
+}
+.Tab {
+  background:linear-gradient(#f2f2f2, #a6a6a6);
+}
+body {
+  width:1000px;
+  height:1000px;
+  margin:0;
+  margin-left:auto;
+  margin-right:auto;
+  background-color:white;
+}
+.LeftColumn {
+float:left;
+width:24.8%;
+height:86.35%;
+background: linear-gradient(#4d94ff, #0047b3, #0047b3, #0047b3, #0047b3, #0047b3, #0047b3);
+}
+.headshot {
+  width:70%;
+  margin:15%;
+}
+.LeftColumn div {
+  margin:5%;
+  margin-top:-20%;
+  color: #d9d9d9;
+  text-shadow: 1px 1px #1a1a1a;
+}
+.LeftColumn h3 {
+  text-align:center;
+  margin-bottom:0;
+}
+.LeftColumn a, .LeftColumn p {
+  color:#d9d9d9;
+  margin-top:3px;
+  margin-bottom:3px;
+  font-size:13px;
+}
