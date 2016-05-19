@@ -1,1 +1,66 @@
+.Scenery {
+text-align:center;
+margin:0;
+margin-top:-16px;
+width:75%;
+height:200px;
+background-color:#f3f3f3;
+color:black;
+}
+.Scenery p {
+  vertical-align:middle;
+}
+container div {
+  float:left;
+  height:66.2%;
+}
+.LeftBox, .RightColumn {
+  background: linear-gradient(#4d94ff, #0047b3, #0047b3, #0047b3, #0047b3, #0047b3, #0047b3);
+}
+.LeftBox {
+  width:25%;
+}
+.RightColumn {
+  width:20%;
+}
+.RightBox {
+  float:left;
+}
+.MiddleBox {
+  width:55%;
+}
+.MissionStatement {
+  font-size:15px;
+  margin:10px;
+}
+.MissionStatement h3 {
+  text-align:center;
+}
+.MissionStatement p {
+margin:40px;
+margin-top:4px;
+margin-bottom:4px;
+}
+.LeftBox div {
+  margin:7%;
+  margin-top:-50px;
+  font-size:12.5px;
+  color: #d9d9d9;
+  text-shadow: 2px 0px #1a1a1a;
+}
+.LeftBox h3 {
+text-align:center;
+margin-bottom:1px;
+}
+.LeftBox p {
+  margin-top:2px;
+  margin-bottom:2px;
+}
+.LeftBox a {
+  color:#d9d9d9;
+}
+.headshot {
+  width:70%;
+  margin:15%;
+}
 
