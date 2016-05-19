@@ -5,6 +5,9 @@ container {
   border:5px solid black;
   width:1000px;
   height:1000px;
+  margin:0;
+  margin-left:auto;
+  margin-right:auto;
 }
 header {
 border: 5px solid black;
