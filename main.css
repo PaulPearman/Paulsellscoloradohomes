@@ -26,6 +26,7 @@ background-color:blue;
   margin-left:0.5%;
   margin-right:0.5%;
   background-color:white;
+  float:left;
 }
 body {
   width:1000px;
