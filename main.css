@@ -24,10 +24,9 @@ width:100%;
   margin-left:-40px;
   text-align:center;
 }
-.NavOptions li {
+.Tab, .ActiveTab {
   width:24.8%;
   margin-right:0.2%;
-  background:linear-gradient(#f2f2f2, #a6a6a6);
   float:left;
   padding-top:15px;
   padding-bottom:15px;
@@ -40,6 +39,9 @@ width:100%;
 }
 .ActiveTab {
   background:linear-gradient(#a6a6a6, #f2f2f2);
+}
+.Tab {
+  background:linear-gradient(#f2f2f2, #a6a6a6);
 }
 body {
   width:1000px;
