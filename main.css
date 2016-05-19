@@ -58,11 +58,12 @@ background: linear-gradient(#4d94ff, #0047b3, #0047b3, #0047b3, #0047b3, #0047b3
   margin-top:-20%;
   font-size:14px;
   color: #d9d9d9;
+  text-shadow: 0.5px 0.5px #1a1a1a;
 }
 .LeftColumn a, .LeftColumn p {
   color:#d9d9d9;
-  margin-top:2px;
-  margin-bottom:2px;
+  margin-top:3px;
+  margin-bottom:3px;
 }
 .RightColumn {
 float:left;
