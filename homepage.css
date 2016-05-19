@@ -20,8 +20,11 @@ container div {
 .LeftBox {
   width:25%;
 }
-.RightBox {
+.RightColumn {
   width:20%;
+}
+.RightBox {
+  float:left;
 }
 .MiddleBox {
   width:55%;
