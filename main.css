@@ -37,3 +37,13 @@ width:65%;
 height:85%;
 background-color:green;
 }
+.TopOfRightColumn {
+  height:25%;
+  width:100%;
+  background-color:orange;
+}
+.BottomOfRightColumn {
+  height:75%;
+  width:100%;
+  background-color:purple;
+}
