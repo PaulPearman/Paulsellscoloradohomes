@@ -28,5 +28,8 @@ height:86.35%;
   margin:10px;
 }
 .MissionStatement h3 {
-  font-size:15px;
+  font-size:17px;
+}
+.MissionStatement p {
+  font-size:14px;
 }
