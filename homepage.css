@@ -1,7 +1,7 @@
 .RightColumn {
 float:left;
 width:75.2%;
-height:86.35%;
+height:76.35%;
 }
 .TopOfRightColumn {
   height:31.25%;
@@ -23,4 +23,22 @@ height:86.35%;
   width:30%;
   height:100%;
   background: linear-gradient(#4d94ff, #0047b3, #0047b3, #0047b3, #0047b3, #0047b3, #0047b3);
+}
+.MissionStatement {
+  margin:10px;
+  margin-top:20px;
+}
+.MissionStatement h3 {
+  font-size:16px;
+  text-align:center;
+  margin-top:6px;
+  margin-bottom:6px;
+}
+.MissionStatement p {
+  font-size:14px;
+  margin-left:20px;
+  margin-right:20px;
+  margin-top:4px;
+  margin-bottom:4px;
+  text-align:center;
 }
