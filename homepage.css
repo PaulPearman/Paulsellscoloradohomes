@@ -7,6 +7,7 @@ height:76.35%;
   height:31.25%;
   width:100%;
   background-image:url("Scenery1.png");
+  background-position: center center;
 }
 .BottomOfRightColumn {
   height:68.75%;
