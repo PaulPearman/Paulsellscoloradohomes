@@ -16,6 +16,7 @@ width:100%;
 .banner {
   float:right;
   font-style:oblique;
+  font:arial;
 }
 .BottomOfHeader {
   background-color:red;
