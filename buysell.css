@@ -6,3 +6,6 @@ height:76.35%;
 h3 {
   margin:30px;
 }
+ul h3 {
+  margin-left:0;
+}
