@@ -50,6 +50,9 @@ width:100%;
 .Tab ul, .ActiveTab ul {
   display: none;
 }
+.Tab:hover .Tab ul {
+  display:block;
+}
 .NavOptions a {
   color: #000000;
 }
