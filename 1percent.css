@@ -32,6 +32,9 @@ table td {
   border:0px;
 }
 .SectionTitle {
+  margin-bottom:-20px;
+  border-bottom: 1.5px solid #595959;
+  font-weight:normal;
   text-align:center;
   color: #595959;
 }
