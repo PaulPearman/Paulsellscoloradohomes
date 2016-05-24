@@ -31,5 +31,8 @@ height:76.35%;
 .BuyerInfo a:hover, .SellerInfo a:hover {
   color: #595959;
 }
+.Contents {
+  margin:30px;
+}
 
 
