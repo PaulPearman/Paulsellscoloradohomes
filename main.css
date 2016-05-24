@@ -49,7 +49,7 @@ width:100%;
 }
 .test {
   display: none;
-  z-index:1;
+  z-index:2;
 }
 .Tab:hover .test {
   display:block;
