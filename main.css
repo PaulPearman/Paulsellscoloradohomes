@@ -47,13 +47,6 @@ width:100%;
   padding-top:15px;
   padding-bottom:15px;
 }
-.test {
-  display: none;
-}
-.Tab:hover .test {
-  display:block;
-  z-index:2;
-}
 .NavOptions a {
   color: #000000;
 }
