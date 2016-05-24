@@ -16,8 +16,9 @@ width:100%;
 }
 .banner {
   float:left;
-  margin:10px;
+  margin-top:7px;
   margin-bottom:0;
+  margin-left, margin-right:auto;
   font-style:oblique;
   font-family:"arial";
   font-size:30px;
