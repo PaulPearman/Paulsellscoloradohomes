@@ -12,9 +12,10 @@ width:100%;
 .logo {
   margin:10px;
   box-shadow: 2px 2px 5px #1a1a1a;
+  float:left;
 }
 .banner {
-  float:right;
+  float:left;
   margin:10px;
   margin-bottom:0;
   font-style:oblique;
