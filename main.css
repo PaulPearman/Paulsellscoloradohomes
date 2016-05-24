@@ -15,6 +15,7 @@ width:100%;
 }
 .banner {
   float:right;
+  margin:10px;
   font-style:oblique;
   font-family:"arial";
 }
