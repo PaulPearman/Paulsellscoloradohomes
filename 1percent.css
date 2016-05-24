@@ -22,7 +22,7 @@ table {
   width:100%;
   background-color:red;
 }
-table tr {
+table td {
   padding-top:10px;
   padding-bottom:10px;
   border: 1px solid black;
