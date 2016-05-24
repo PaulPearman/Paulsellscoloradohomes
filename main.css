@@ -19,6 +19,9 @@ width:100%;
   font-style:oblique;
   font-family:"arial";
 }
+.banner strong {
+  font-size:42px;
+}
 .BottomOfHeader {
   background-color:red;
   width:100%;
