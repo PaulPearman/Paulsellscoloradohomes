@@ -6,6 +6,7 @@ height:76.35%;
 .PageTitle {
   margin:30px;
   margin-bottom:15px;
+  border-bottom: 2px solid #000000;
 }
 h3 {
   margin:15px;
