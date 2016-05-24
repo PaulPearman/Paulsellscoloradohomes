@@ -28,7 +28,7 @@ height:76.35%;
   margin-top:5px;
   margin-bottom:5px;
 }
-.BuyerInfo a:hover, .SellerInfo a:hover {
+.BuyerInfo a:hover, .SellerInfo a:hover, .BackLink:hover {
   color: #595959;
 }
 .Contents {
