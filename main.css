@@ -16,10 +16,9 @@ width:100%;
 }
 .banner {
   float:left;
-  margin-top:5px;
+  margin-top:20px;
   margin-bottom:0;
-  margin-left:auto;
-  margin-right:auto;
+  margin-left:20px;
   font-style:oblique;
   font-family:"arial";
   font-size:30px;
