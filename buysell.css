@@ -17,18 +17,18 @@ h3 {
   margin-left:30px;
   font-weight:normal;
 }
-ul {
+.BuyerInfo, .SellerInfo {
   margin-left:-10px;
   margin-bottom:20px;
 }
-ul a {
+.BuyerInfo a, .SellerInfo a {
   color: #000000;
 }
 .InfoLink {
   margin-top:5px;
   margin-bottom:5px;
 }
-.RightColumn a:hover {
+.BuyerInfo a:hover, .SellerInfo a:hover {
   color: #595959;
 }
 
