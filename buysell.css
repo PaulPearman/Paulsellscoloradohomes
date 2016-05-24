@@ -1,0 +1,44 @@
+.RightColumn {
+float:left;
+width:75%;
+height:76.35%;
+}
+.PageTitle {
+  margin:30px;
+  margin-bottom:15px;
+  margin-right:40px;
+  border-bottom: 1.5px solid #595959;
+  color: #595959;
+  font-weight:normal;
+}
+.SectionTitle {
+  margin:15px;
+  margin-top:30px;
+  margin-left:30px;
+  font-weight:normal;
+}
+.BuyerInfo, .SellerInfo {
+  margin-left:-10px;
+  margin-bottom:20px;
+}
+.BuyerInfo a, .SellerInfo a {
+  color: #000000;
+}
+.InfoLink {
+  margin-top:5px;
+  margin-bottom:5px;
+}
+.BuyerInfo a:hover, .SellerInfo a:hover, .BackLink:hover {
+  color: #595959;
+}
+.Contents {
+  margin:30px;
+  margin-right:40px;
+}
+.Contents ul {
+  margin-left:-20px;
+}
+.BackLink {
+ margin:30px;
+ color: #000000;
+}
