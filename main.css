@@ -47,10 +47,10 @@ width:100%;
   padding-top:15px;
   padding-bottom:15px;
 }
-.Tab ul, .ActiveTab ul {
+.test {
   display: none;
 }
-.Tab:hover .Tab ul {
+.Tab:hover .test {
   display:block;
 }
 .NavOptions a {
