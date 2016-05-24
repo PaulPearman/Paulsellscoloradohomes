@@ -16,6 +16,7 @@ width:100%;
 .banner {
   float:right;
   margin:10px;
+  margin-bottom:0;
   font-style:oblique;
   font-family:"arial";
   font-size:36px;
