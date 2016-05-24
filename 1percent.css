@@ -22,3 +22,8 @@ table {
   width:100%;
   background-color:red;
 }
+table tr {
+  padding-top:10px;
+  padding-bottom:10px;
+  border: 1px solid black;
+}
