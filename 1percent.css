@@ -32,8 +32,6 @@ table td {
   border:0px;
 }
 .SectionTitle {
-  margin:15px;
-  margin-top:30px;
-  margin-left:30px;
   font-weight:normal;
+  text-align:center;
 }
