@@ -13,6 +13,9 @@ width:100%;
   margin:10px;
   box-shadow: 2px 2px 5px #1a1a1a;
 }
+.banner {
+  float:right;
+}
 .BottomOfHeader {
   background-color:red;
   width:100%;
