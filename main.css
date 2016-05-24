@@ -49,10 +49,10 @@ width:100%;
 }
 .test {
   display: none;
-  z-index:2;
 }
 .Tab:hover .test {
   display:block;
+  z-index:2;
 }
 .NavOptions a {
   color: #000000;
