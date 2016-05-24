@@ -3,8 +3,11 @@ float:left;
 width:75%;
 height:76.35%;
 }
-h3 {
+.PageTitle {
   margin:30px;
   margin-bottom:15px;
+}
+h3 {
+  margin:15px;
 }
 
