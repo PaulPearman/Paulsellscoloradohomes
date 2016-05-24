@@ -28,5 +28,8 @@ ul a {
   margin-top:5px;
   margin-bottom:5px;
 }
+.InfoLink:hover {
+  color: #595959;
+}
 
 
