@@ -47,6 +47,9 @@ width:100%;
   padding-top:15px;
   padding-bottom:15px;
 }
+.Tab ul, .ActiveTab ul {
+  display: none;
+}
 .NavOptions a {
   color: #000000;
 }
