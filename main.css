@@ -110,4 +110,6 @@ footer img {
 }
 footer li {
   float:left;
+  padding:5px;
+  padding-left:20px;
 }
