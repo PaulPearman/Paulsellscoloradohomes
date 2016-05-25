@@ -93,3 +93,29 @@ background: linear-gradient(#4d94ff, #0047b3, #0047b3, #0047b3, #0047b3, #0047b3
   margin-bottom:3px;
   font-size:13px;
 }
+footer {
+  float:left;
+  width:100%;
+  height:10%;
+  border-top:10px solid #4d94ff;
+}
+footer ul {
+  list-style-type: none;
+  float:left;
+  margin:0;
+}
+footer img {
+  float:right;
+  margin:10px;
+}
+footer li {
+  float:left;
+  padding:0px;
+  padding-left:10px;
+  padding-right:10px;
+  margin-top:5px;
+  border-left: 2px solid #595959;
+}
+.FooterHome {
+  border-left:0px;
+}
