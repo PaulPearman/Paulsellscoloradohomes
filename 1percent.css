@@ -1,0 +1,45 @@
+.RightColumn {
+float:left;
+width:75%;
+height:76.35%;
+}
+.PageTitle {
+  margin:30px;
+  margin-bottom:15px;
+  margin-right:40px;
+  border-bottom: 1.5px solid #595959;
+  color: #595959;
+  font-weight:normal;
+}
+.Contents {
+  margin:30px;
+  margin-right:40px;
+}
+.Contents ul {
+  margin-left:-20px;
+}
+table {
+  margin-top:30px;
+  width:100%;
+}
+table td {
+  padding-top:10px;
+  padding-bottom:10px;
+  border: 2px solid #000000;
+  text-align:center;
+}
+.blank {
+  border:0px;
+}
+.SectionTitle, .PageBottom {
+  padding:3px;
+  margin-bottom:-20px;
+  border-bottom: 1.5px solid #595959;
+  font-weight:normal;
+  text-align:center;
+  color: #595959;
+}
+.PageBottom {
+  border-bottom:0px;
+  border-top: 1.5px solid #595959;
+}
