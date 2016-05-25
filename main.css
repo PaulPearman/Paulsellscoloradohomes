@@ -108,3 +108,6 @@ footer img {
   float:right;
   margin:0;
 }
+footer li {
+  float:left;
+}
