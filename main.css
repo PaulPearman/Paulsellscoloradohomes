@@ -99,3 +99,12 @@ footer {
   height:10%;
   border-top:10px solid #4d94ff;
 }
+footer ul {
+  list-style-type: none;
+  float:left;
+  margin:0;
+}
+footer img {
+  float:right;
+  margin:0;
+}
