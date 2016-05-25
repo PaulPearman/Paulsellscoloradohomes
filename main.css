@@ -112,4 +112,6 @@ footer li {
   float:left;
   padding:5px;
   padding-left:5px;
+  border-left:1px solid #595959;
+  border-right:1px solid #595959;
 }
