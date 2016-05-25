@@ -116,3 +116,6 @@ footer li {
   margin-top:5px;
   border-left: 1.5px solid #595959;
 }
+.FooterHome {
+  border-left:0px;
+}
