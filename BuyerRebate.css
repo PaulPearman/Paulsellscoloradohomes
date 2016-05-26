@@ -45,3 +45,9 @@ table td {
 .PageBottomLower {
   border-bottom:0px;
 }
+.PageBottomLower a {
+  color: #595959;
+}
+.PageBottomLower a:hover {
+  color: #000000;
+}
