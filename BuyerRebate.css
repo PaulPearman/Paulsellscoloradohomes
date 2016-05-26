@@ -30,7 +30,7 @@ table td {
 .blank {
   border:0px;
 }
-.SectionTitle, .PageBottom {
+.SectionTitle, .PageBottom, .PageBottomLower {
   padding:3px;
   margin-bottom:-20px;
   border-bottom: 1.5px solid #595959;
@@ -41,4 +41,7 @@ table td {
 .PageBottom {
   border-bottom:0px;
   border-top: 1.5px solid #595959;
+}
+.PageBottomLower {
+  border-bottom:0px;
 }
