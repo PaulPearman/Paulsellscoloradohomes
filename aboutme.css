@@ -1,0 +1,23 @@
+.RightColumn {
+float:left;
+width:75%;
+height:76.35%;
+}
+.PageTitle {
+  margin:30px;
+  margin-bottom:15px;
+  margin-right:40px;
+  border-bottom: 1.5px solid #595959;
+  color: #595959;
+  font-weight:normal;
+}
+.SectionTitle {
+  margin:15px;
+  margin-top:30px;
+  margin-left:30px;
+  font-weight:normal;
+}
+.Contents {
+  margin:30px;
+  margin-right:40px;
+}
