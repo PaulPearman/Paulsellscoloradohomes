@@ -127,3 +127,7 @@ footer p {
 footer p a {
   color: #000000;
 }
+footer p img {
+  width: 10px;
+  height:10px;
+}
