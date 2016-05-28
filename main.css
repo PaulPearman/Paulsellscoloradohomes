@@ -124,3 +124,6 @@ footer p {
   margin:0;
   margin-top:20px;
 }
+footer p a {
+  color: #000000;
+}
