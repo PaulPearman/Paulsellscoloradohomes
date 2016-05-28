@@ -119,3 +119,6 @@ footer li {
 .FooterHome {
   border-left:0px;
 }
+footer p {
+  float:left;
+}
