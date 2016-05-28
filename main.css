@@ -126,6 +126,10 @@ footer p {
 }
 footer p a {
   color: #000000;
+  text-decoration:none;
+  font-style:oblique;
+  font-family:Verdana;
+  font-weight:thick;
 }
 footer p img {
   width: 18px;
