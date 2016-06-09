@@ -12,18 +12,18 @@ height:76.35%;
   width: 750px;
 }
 .Credits {
-  position:absolute;
   float:right;
   font-size:10px;
   color:white;
   font-family:"Helvetica";
   margin:0;
-  z-index:1;
 }
 .BottomBanner {
   width:100%;
   height:20px;
   margin-top:-20px;
+  z-index:1;
+  position:absolute;
 }
 .BottomOfRightColumn {
   height:64.75%;
