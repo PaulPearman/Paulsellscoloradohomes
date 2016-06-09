@@ -11,6 +11,9 @@ height:76.35%;
   height:270px;
   width: 750px;
 }
+.Credits {
+  float:left;
+}
 .BottomOfRightColumn {
   height:64.75%;
   width:100%;
