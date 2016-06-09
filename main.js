@@ -10,7 +10,7 @@ var main = function() {
    setInterval(function() {
    $PhotoReel.animate({'margin-left': '-='+SlideLength}, SlideSpeed, function() {
     currentSlide++;
-    if (currentSlide === $Photo.length) {
+    if (currentSlide === $PhotoReel.last) {
        CurrentSlide = 1;
        $PhotoReel.css('margin-left', -40);
          };
