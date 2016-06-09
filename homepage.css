@@ -13,6 +13,7 @@ height:76.35%;
 }
 .Credits {
   float:right;
+  margin-left:-200px;
 }
 .BottomOfRightColumn {
   height:64.75%;
