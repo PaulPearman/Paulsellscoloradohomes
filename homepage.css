@@ -10,6 +10,7 @@ height:76.35%;
 .PhotoReel {
   height:270px;
   width: 750px;
+  z-index:-1;
 }
 .BottomBanner {
   width:100%;
