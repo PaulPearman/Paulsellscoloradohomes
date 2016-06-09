@@ -14,7 +14,7 @@ var main = function() {
        CurrentSlide = 1;
        $PhotoReel.css('margin-left', 0);
          };
-      };
+      });
    }, Pause); 
 };
 $(document).ready(main);
