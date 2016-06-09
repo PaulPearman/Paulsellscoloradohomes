@@ -13,8 +13,8 @@ var main = function() {
     if (currentSlide === $Photo.length) {
        CurrentSlide = 1;
        $PhotoReel.css('margin-left', 0);
-         }
-      }
+         };
+      };
    }, Pause); 
 };
 $(document).ready(main);
