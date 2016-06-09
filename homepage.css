@@ -4,15 +4,17 @@ width:75%;
 height:76.35%;
 }
 .TopOfRightColumn {
-  /*height:270px;*/
   width:750px;
+}
+.TopBanner {
+  width:100%;
+  overflow:hidden;
 }
 .PhotoReel {
   list-style-type:none;
   margin:0;
   margin-left:-40px;
   width:1500px;
-  overflow:hidden;
 }
 .PhotoReel li img {
   height:270px;
