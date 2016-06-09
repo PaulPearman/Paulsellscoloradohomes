@@ -12,6 +12,7 @@ height:76.35%;
   margin:0;
   margin-left:-40px;
   width:1500px;
+  overflow:hidden;
 }
 .PhotoReel li img {
   height:270px;
