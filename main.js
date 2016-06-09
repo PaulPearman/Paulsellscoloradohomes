@@ -12,7 +12,7 @@ var main = function() {
     currentSlide++;
     if (currentSlide === $Photo.length) {
        CurrentSlide = 1;
-       $PhotoReel.css('margin-left', 0);
+       $PhotoReel.css('margin-left', -40);
          };
       });
    }, Pause); 
