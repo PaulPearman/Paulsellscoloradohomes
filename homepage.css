@@ -9,6 +9,7 @@ height:76.35%;
 }
 .PhotoReel {
   list-style-type:none;
+  margin:0;
 }
 .Photo {
   height:270px;
