@@ -8,8 +8,13 @@ height:76.35%;
   width:750px;
 }
 .PhotoReel {
+  list-style-type:none;
+}
+.Photo {
   height:270px;
   width: 750px;
+  float:left;
+  margin:0;
 }
 .Credits {
   float:right;
